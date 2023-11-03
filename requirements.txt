@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn
+asyncpg
+databases
+psycopg
+SQLAlchemy==2.0.23
+alembic
