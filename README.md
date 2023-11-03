@@ -2,7 +2,7 @@
 
 A URL shortener crafted using FastAPI, SQLAlchemy, Pydantic, and Alembic.
 
-## Add an .env file
+## Create the .env file
 
 The first thing one needs to do is to create an .env file in the root folder of this repo. Copy the keys from .env.dist and fill in the values according to your local database connection arguments.
 
