@@ -8,10 +8,10 @@ The first thing one needs to do is to create an .env file in the root folder of 
 
 ## Build the Docker Container
 
-To build and run the Docker container, execute the following command:
+Two different containers are composed together using `docker compose`. One for the application itself, and one separately for the PostGresSQL database. To build and run the Docker containers, execute the following command:
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 ## Run/Test the Application Locally
