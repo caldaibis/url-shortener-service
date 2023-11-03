@@ -1,6 +1,6 @@
 # FastAPI URL Shortener
 
-A URL shortener crafted using FastAPI, SQLAlchemy, Pydantic, and Alembic.
+A URL shortener crafted using FastAPI, SQLAlchemy, Pydantic, and Alembic combined with a PostgreSQL database.
 
 ## Create the .env file
 
